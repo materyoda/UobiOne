@@ -1,0 +1,9 @@
+// Naming convention
+
+s_  + name  -> structure
+t_  + name  -> texture
+
+
+TODO
+- calculate the angle of a vector
+- fix the TRACE in order to handle different data type 
