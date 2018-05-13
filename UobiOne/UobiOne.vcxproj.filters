@@ -18,9 +18,6 @@
     <ClCompile Include="UobiOne.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="controls.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="loadassets.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
